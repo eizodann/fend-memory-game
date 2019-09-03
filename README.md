@@ -1,6 +1,6 @@
 # Memory Game Project
 
-A Udacity project developed using HTMl, CSS, JavaScript.
+A Udacity project developed using HTML, CSS, JavaScript.
 
 ► [Click Here](https://eizodann.github.io/fend-memory-game/) to start game
 
